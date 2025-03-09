@@ -1,6 +1,6 @@
 
 CREATE OR REPLACE DATABASE stream_db;
-CREATE OR REPLACE STREAM steam_sch;
+CREATE OR REPLACE SCHEMA steam_sch;
 
 USE DATABASE stream_db;
 USE SCHEMA steam_sch;
